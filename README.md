@@ -1,2 +1,2 @@
 # Sim_Sec_Express_srv
-A Simple Secure Express Server
+A simple secure Express server where HTTPS is used to secure server connections.
