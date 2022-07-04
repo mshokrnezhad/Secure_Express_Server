@@ -1,0 +1,23 @@
+{
+  "name": "sim_sec_express_srv",
+  "version": "1.0.0",
+  "description": "A simple secure Express server where HTTPS is used to secure server connections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshokrnezhad/Sim_Sec_Express_srv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshokrnezhad/Sim_Sec_Express_srv/issues"
+  },
+  "homepage": "https://github.com/mshokrnezhad/Sim_Sec_Express_srv#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
